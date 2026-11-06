@@ -11,4 +11,3 @@ Growing up, I couldn't afford private hitting lessons. I had a burning desire to
 
 AI has changed what's possible for solo founders to do on their own. I'm building computer vision models tuned specifically to baseball swings that break down a hitter's mechanics and show exactly how to improve, the kind of feedback that used to require a private coach.
 
-The goal is better swings today and, for some players, a longer baseball career.
